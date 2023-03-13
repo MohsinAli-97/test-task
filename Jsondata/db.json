@@ -1,0 +1,89 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "Mohsin Ali",
+      "userName": "imohsinali97",
+      "password": "testTask"
+    },
+    {
+      "name": "Ali",
+      "userName": "ali123",
+      "password": "ali123",
+      "id": 2
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Bus"
+    },
+    {
+      "id": 2,
+      "name": "Sedan"
+    },
+    {
+      "id": 3,
+      "name": "Hachback"
+    },
+    {
+      "name": "bike",
+      "id": 4
+    },
+    {
+      "name": "cat1",
+      "id": 5
+    }
+  ],
+  "Products": [
+    {
+      "color": "red",
+      "model": 2023,
+      "category": "Hachback",
+      "registrationNumber": "ACX-B1-99886",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "color": "red",
+      "model": 2013,
+      "category": "Bus",
+      "registrationNumber": "ACX-B2-99886"
+    },
+    {
+      "color": "red",
+      "model": 2014,
+      "category": "Sedan",
+      "registrationNumber": "ACX-B3-99886",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "color": "red",
+      "model": 2020,
+      "category": "Bus",
+      "registrationNumber": "ACX-B4-99886"
+    },
+    {
+      "color": "red",
+      "model": 2113,
+      "category": "bike",
+      "registrationNumber": "ACX-B5-99886",
+      "id": 5
+    },
+    {
+      "color": "blue",
+      "model": "2014",
+      "category": "Hachback",
+      "registrationNumber": "ACX-B6-99886",
+      "id": 6
+    },
+    {
+      "color": "green",
+      "model": "2034",
+      "category": "bike",
+      "registrationNumber": "ACX-B7-99886",
+      "id": 7
+    }
+  ]
+}
